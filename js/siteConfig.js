@@ -2,7 +2,7 @@ window.SITE_CONFIG = {
   name: "Wilfried VOGLER",
   jobTitle: "Kinésithérapeute",
   phone: "+33636423000",
-  phoneLabel: "06 84 95 94 11",
+  phoneLabel: "06 36 42 30 00",
   email: "w.vogler@outlook.fr",
   addressLine1: "1 Av de Lagord Vendome",
   addressLine2: "17140 Lagord",
